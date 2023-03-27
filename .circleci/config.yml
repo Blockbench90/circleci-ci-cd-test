@@ -5,4 +5,4 @@ jobs:
       - image: circleci/node:14
     steps:
       - checkout
-      - run: echo "Hi"
+      - run: echo "Done"
